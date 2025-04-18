@@ -1,0 +1,6 @@
+.env
+.venv
+src/logs/*
+src/.pytest_cache/
+src/Sport_radar_chart.egg-info/
+*.parquet
